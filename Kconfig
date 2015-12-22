@@ -1,0 +1,5 @@
+config HELLO
+  tristate "Hello world Kernel module"
+  default y
+  help
+  This is the first android kernel module driver.
